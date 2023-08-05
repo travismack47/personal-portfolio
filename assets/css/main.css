@@ -2189,3 +2189,7 @@ input, select, textarea {
 			}
 
 		}
+
+		.projectname {
+			text-align: center;
+		}
